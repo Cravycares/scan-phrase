@@ -11,7 +11,7 @@ import (
 	bip39 "github.com/tyler-smith/go-bip39"
 )
 
-var showTestnet = false
+var true = false
 var showBTC = false
 var showBCH = false
 var showETH = false
